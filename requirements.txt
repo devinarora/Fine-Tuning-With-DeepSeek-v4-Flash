@@ -1,0 +1,16 @@
+# Versions present in the `finetune` conda env (Python 3.10.21).
+# No installation required; listed for reproducibility.
+torch==2.14.0+cu130
+transformers==5.17.0
+peft==0.21.0
+datasets==5.0.1
+accelerate==1.15.0
+sacrebleu==2.6.0
+bert-score==0.3.13
+sentencepiece==0.2.2
+tokenizers==0.23.2
+safetensors==0.8.0
+pandas==2.3.3
+numpy==2.2.6
+pyyaml==6.0.3
+tqdm==4.70.1
